@@ -1,0 +1,19 @@
+model,actual_label,predicted_label,count
+Plain VADER,negative,negative,5
+Plain VADER,negative,neutral,10
+Plain VADER,negative,positive,8
+Plain VADER,neutral,negative,7
+Plain VADER,neutral,neutral,32
+Plain VADER,neutral,positive,20
+Plain VADER,positive,negative,5
+Plain VADER,positive,neutral,31
+Plain VADER,positive,positive,32
+Finance-extended VADER,negative,negative,5
+Finance-extended VADER,negative,neutral,10
+Finance-extended VADER,negative,positive,8
+Finance-extended VADER,neutral,negative,7
+Finance-extended VADER,neutral,neutral,33
+Finance-extended VADER,neutral,positive,19
+Finance-extended VADER,positive,negative,4
+Finance-extended VADER,positive,neutral,30
+Finance-extended VADER,positive,positive,34

@@ -1,0 +1,4 @@
+dataset,rows,start_date,end_date,tickers,duplicate_key_rows,missing_required_values,nonpositive_prices,extreme_abs_return_gt_50pct,nonfinite_returns
+equity_prices,50300,2020-01-02,2023-12-29,50,0,0,0.0,1.0,0.0
+crypto_prices,14610,2020-01-01,2023-12-31,10,0,0,0.0,6.0,0.0
+news_headlines,146836,2020-01-01,2023-12-31,50,0,0,,,
